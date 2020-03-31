@@ -11,7 +11,7 @@ Install Vagrant Binary from [here](https://www.vagrantup.com/downloads.html)
 Download debian/stretch64 box from vagrant using the command `vagrant box add debian/stretch64`  
 Clone this repo  
 ```  
-git clone https://github.com/monicagangwar/vagrant-docker-swarm.git  
+git clone https://github.com/joebibe/vagrant-docker-swarm.git  
 cd vagrant-docker-swarm  
 ```
 
